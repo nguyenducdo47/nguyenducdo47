@@ -71,7 +71,7 @@
   <a href="https://www.youtube.com/@NguyenDucDo2001" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyenducdo-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/nguyễn-đức-độ-901345267" target="_blank">
+  <a href="https://www.linkedin.com/in/duc-do-nguyen-developer" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyenducdo-linkedin" />
   </a>
   <a href="https://instagram.com/ndoubled2105" target="_blank">
